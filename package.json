@@ -1,14 +1,14 @@
 {
   "name": "@binsarjr/tempfilesninja",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "API Tempfiles.ninja for nodejs",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/binsarjr/tempfilesninja.git"
+    "url": "git@github.com:binsarjr/tempfilesninja.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/",
+    "registry": "https://npm.pkg.github.com",
     "access": "public"
   },
   "author": "Binsar Dwi Jasuma",
