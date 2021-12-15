@@ -3,20 +3,34 @@
   "version": "1.0.0",
   "description": "API Tempfiles.ninja for nodejs",
   "main": "dist/index.js",
+  "homepage": "https://github.com/binsarjr/tempfilesninja",
   "repository": {
     "type": "git",
-    "url": "git@github.com:binsarjr/tempfilesninja.git"
+    "url": "git+https://github.com/binsarjr/tempfilesninja.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com",
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "author": "Binsar Dwi Jasuma",
-  "license": "MIT",
+  "keywords": [
+    "tempfilesninja",
+    "tempfile",
+    "tempninja",
+    "temp"
+  ],
+  "license": "ISC",
   "devDependencies": {
     "typescript": "^4.5.4"
   },
   "dependencies": {
     "got": "^11.8.3"
+  },
+  "types": "./dist/index.d.ts",
+  "bugs": {
+    "url": "https://github.com/binsarjr/tempfilesninja/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
