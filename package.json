@@ -1,6 +1,6 @@
 {
   "name": "@binsarjr/tempfilesninja",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API Tempfiles.ninja for nodejs",
   "main": "dist/index.js",
   "homepage": "https://github.com/binsarjr/tempfilesninja",
