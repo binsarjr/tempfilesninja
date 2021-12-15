@@ -1,0 +1,15 @@
+{
+  "name": "@binsarjr/tempfilesninja",
+  "version": "1.0.0",
+  "description": "API Tempfiles.ninja for nodejs",
+  "main": "dist/index.js",
+  "repository": "https://github.com/binsarjr/tempfilesninja",
+  "author": "Binsar Dwi Jasuma",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "got": "^11.8.3"
+  }
+}
